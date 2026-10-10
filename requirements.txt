@@ -1,0 +1,5 @@
+# Libraries used in the AI Battery Health Prediction project
+pandas
+numpy
+scikit-learn
+matplotlib
